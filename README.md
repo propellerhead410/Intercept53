@@ -37,8 +37,7 @@ Intercept53 is a lightweight Burp Suite extension that runs a local DNS server i
 - Run Burp as **root/administrator** to bind to port 53
 
 ### ⚙️ Setupte
-#### 📦 1. Download the Extension
-- Clone the repository or download the latest release from the Releases tab.
+#### 📦 1. [Download Latest Release](https://github.com/propellerhead410/Intercept53/releases)
 
 #### 🛡️ 2. Launch Burp Suite as **root/administrator**
 - Required to bind to privileged port 53.
