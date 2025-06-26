@@ -36,7 +36,7 @@ Intercept53 is a lightweight Burp Suite extension that runs a local DNS server i
 - Jython standalone
 - Run Burp as **root/administrator** to bind to port 53
 
-### ⚙️ Setupte
+### ⚙️ Setup
 #### 📦 1. [Download Latest Release](https://github.com/propellerhead410/Intercept53/releases)
 
 #### 🛡️ 2. Launch Burp Suite as **root/administrator**
